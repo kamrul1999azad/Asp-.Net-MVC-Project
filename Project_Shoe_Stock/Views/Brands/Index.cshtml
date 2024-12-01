@@ -1,0 +1,64 @@
+﻿@model IEnumerable<Project_Shoe_Stock.Models.Brand>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 style="text-align:center;color:red;"><u>Brand list</u></h2>
+<div class="text-center">
+    <h4>To @Html.ActionLink("Create", "Create", "Brands", new{ }, new { @class = "btn btn-primary" }) New Brand</h4>
+</div>
+<div class="d-flex justify-content-sm-center">
+    <div class="col-6">
+        <table class="table table-striped">
+            <thead >
+                <tr>
+                    <th>Brand Name</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var b in Model)
+                {
+                    <tr>
+                        <td>@b.BrandName</td>
+                        <td>
+                            <a class="btn btn-info" href="@Url.Action("Edit","Brands",new { id = b.BrandId })"><i class="bi bi-pencil-square"></i></a>
+                            
+                            <a></a>
+                            <button data-pk="@b.BrandId" class="btn btn-danger btn-sm del bi bi-trash"></button>
+                        </td>
+                    </tr>
+
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>
+@section styles
+{
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+}
+@section scripts {
+    <script src="~/Scripts/jquery-3.7.1.js"></script>
+    <script>
+        $(".del").click(function () {
+            var id = $(this).data("pk");
+            var trP = $(this).closest('tr');
+            var trS = trP.next();
+            if (confirm("Are you sure to delete?\nProduct with sales will be deleted.")) {
+                $.ajax({
+                    url: "/Brands/Delete/" + id,
+                    method: "post",
+                    dataType: "json",
+                    success: r => {
+                        if (r.success == true) {
+                            trP.remove();
+                            trS.remove();
+                        }
+                    }
+                })
+            }
+        });
+    </script>
+}

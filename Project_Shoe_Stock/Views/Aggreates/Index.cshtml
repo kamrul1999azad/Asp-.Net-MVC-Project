@@ -1,0 +1,44 @@
+﻿@model  IEnumerable<Project_Shoe_Stock.Models.Stock>
+@{
+    ViewBag.Title = "Index";
+}
+<div class="row justify-content-center">
+    <div class="col-4">
+        <h3 class="text-bg-info">Aggregates Functions</h3>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Functions-Name</th>
+                    <th>Result</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Count</td>
+                    <td>size wise Count: @Model.Count()</td>
+                </tr>
+                <tr>
+                    <td>Maximum</td>
+                    <td>Price: @Model.Max(x => x.Price)</td>
+                </tr>
+                <tr>
+                    <td>Minimum</td>
+                    <td>Price: @Model.Min(x => x.Price)</td>
+                </tr>
+                <tr>
+                    <td>Sum</td>
+                    <td>Total-Price: @Model.Sum(x => x.Price)</td>
+                </tr>
+                <tr>
+                    <td>Average</td>
+                    <td>Price: @Model.Min(x => x.Price)</td>
+                </tr>
+
+
+            </tbody>
+        </table>
+
+    </div>
+</div>
+
+

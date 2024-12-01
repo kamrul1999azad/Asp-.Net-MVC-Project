@@ -1,0 +1,47 @@
+﻿@model Project_Shoe_Stock.Models.Stock
+@{
+    ViewBag.Title = "CeateStock";
+}
+
+
+<h2>CeateStock</h2>
+<div class="row">
+    <div class="col-12">
+        @using (Html.BeginForm("CeateStock", "Shoes", FormMethod.Post))
+        {
+
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.ShoeId, new { @class = "col-from-label col-2 text-end" })
+                <div class="col-4">
+                    @Html.DropDownListFor(x => x.ShoeId, new SelectList(ViewBag.Shoes, "ShoeId", "Name"), "Select model", new { @class = "form-select" })
+                    @Html.ValidationMessageFor(x => x.ShoeId, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.Size, new { @class = "col-form-lable col-2 text-end" })
+                <div class="col-4">
+                    @Html.EnumDropDownListFor(x => x.Size, new { @class = "form-select" })
+                    @Html.ValidationMessageFor(x => x.Size, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.Quantity, new { @class = "col-form-lable col-2 text-end" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.Quantity, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(x => x.Quantity, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.Price, new { @class = "col-form-lable col-2 text-end" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.Price, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(x => x.Price, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div>
+                <button type="submit" name="act" value="add" class="btn btn-info">save</button>
+
+            </div>
+        }
+    </div>
+</div>

@@ -1,0 +1,37 @@
+﻿@model Project_Shoe_Stock.Models.ShoeModel
+@{
+    ViewBag.Title = "Edit";
+}
+
+<div class="row">
+    <div class="col-12">
+        <div id="msg">
+
+        </div>
+        @using (Ajax.BeginForm("Edit", "ShoeModels", new AjaxOptions { HttpMethod = "POST", InsertionMode = InsertionMode.Replace, UpdateTargetId = "msg" }, new { id = "frm" }))
+        {
+            @Html.HiddenFor(x=> x.ShoeModelId)
+            <h3>Edit model</h3>
+            <div class="form-group row mb-1">
+                @Html.LabelFor(x => x.ModelName, new { @class = "col-form-label col-2 text-end" })
+                <div class="col-4">
+                    @Html.TextBoxFor(x => x.ModelName, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(x => x.ModelName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+
+                <div class="col-4">
+                    <button type="submit" class="btn btn-primary">Save</button>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+@section scripts
+{
+    <script src="~/Scripts/jquery-3.7.1.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+   
+}

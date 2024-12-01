@@ -1,0 +1,38 @@
+﻿@model Project_Shoe_Stock.Models.Brand
+@{
+    ViewBag.Title = "Edit";
+}
+
+
+<div class="row">
+    <div class="col-12">
+        <div id="msg">
+
+        </div>
+        @using (Ajax.BeginForm("Edit", "Brands", new AjaxOptions { HttpMethod = "POST", InsertionMode = InsertionMode.Replace, UpdateTargetId = "msg" }, new { id = "frm" }))
+        {
+            @Html.HiddenFor(x => x.BrandId)
+            <h3>Edit Enlisted Brand</h3>
+            <div style="margin-top:20px">
+                <div class="form-group row mb-1 offset-3">
+                    @Html.LabelFor(x => x.BrandName, new { @class = "col-form-label col-2 text-end" })
+                    <div class="col-5">
+                        @Html.TextBoxFor(x => x.BrandName, new { @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.BrandName, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+                <div class="form-group row mb-1">
+
+                    <div class="col-4 offset-5">
+                        <button type="submit" class="btn btn-primary">Save</button>
+                       
+
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+    <div>
+        @Html.ActionLink("Back to the list", "Index")
+    </div>
+</div>

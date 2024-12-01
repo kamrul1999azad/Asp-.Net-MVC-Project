@@ -1,0 +1,39 @@
+﻿@model Project_Shoe_Stock.ViewModels.LoginModel
+@{
+    ViewBag.Title = "Login";
+}
+
+<div class="row d-flex justify-content-center ">
+    <div class="col-6 ">
+        @using (Html.BeginForm())
+        {
+            <h2>Login</h2>
+            @Html.ValidationSummary()
+            <div class="form-group row mb-1 ">
+                <label class="col-form-label col-2 text-end">UserName</label>
+                <div class="col-5">
+                    @Html.TextBoxFor(x => x.UserName, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(x => x.UserName, "", new { @class = "text-danger" })
+                </div>
+            </div>
+            <div class="form-group row mb-1">
+                <label class="col-form-label col-2 text-end">Password</label>
+                <div class="col-5">
+                    @Html.PasswordFor(x => x.Password, new { @class = "form-control" })
+                    @Html.ValidationMessageFor(x => x.Password, "", new { @class = "text-danger" })
+                </div>
+            </div>
+           
+            <div class="form-group row mb-1">
+                
+                <div class="col-6">
+                    <div class="d-flex justify-content-between">
+                        <div>If you are not registered, @Html.ActionLink("Register", "Register", "Account")</div> <button type="submit" class="btn btn-primary">Login</button>
+                    </div>
+
+                </div>
+            </div>
+        }
+    </div>
+</div>
+

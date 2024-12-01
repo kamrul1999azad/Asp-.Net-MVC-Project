@@ -1,0 +1,89 @@
+﻿@model IEnumerable<Project_Shoe_Stock.Models.Shoe>
+@using X.PagedList
+@using X.PagedList.Mvc
+@using X.PagedList.Mvc.Common
+<h3 class="text-center text-decoration-underline text-danger">Shoe's Details </h3>
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th></th>
+            <th></th>
+            <th>Brand</th>
+            <th>Model</th>
+            <th>Name</th>
+            <th>First Introduced</th>
+            <th>On Sale?</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var s in Model)
+        {
+            <tr>
+                <td style="width:40px;text-align:center">
+                    <button class="btn btn-sm show"><i class="bi bi-chevron-right"></i></button>
+                    <button class="btn btn-sm hide" style="display:none"><i class="bi bi-chevron-up"></i></button>
+                </td>
+                <td style="width:45px;text-align:center"><img src="~/Pictures/@s.Picture" class="rounded-circle" style="width:40px" /></td>
+                <td>@s.Brand.BrandName</td>
+                <td>@s.ShoeModel.ModelName</td>
+                <td>@s.Name</td>
+                <td>@s.FirstIntroducedOn.ToString("yyyy-MM-dd")</td>
+                <td>@(s.OnSale ? "Yes": "No")</td>
+                <td>
+                    <a class="btn btn-info btn-sm" href="@Url.Action("Edit","Shoes",new { id = s.ShoeId })"><i class="bi bi-pencil-square"></i></a>
+                    @*@Html.ActionLink("Edit", "Edit", "Shoes", new { id = s.ShoeId }, new { @class = "btn btn-primary btn-sm bi bi-pencil-square" })*@
+                    <button data-pk="@s.ShoeId" class="btn btn-danger btn-sm del"><i class="bi bi-trash"></i></button>
+                </td>
+            </tr>
+            <tr style="display:none">
+                <td></td>
+                <td colspan="6">
+                    <div class="d-flex justify-content-between">
+                        <h4>Stocks</h4>
+                        @*@Html.ActionLink("Create", "CeateStock", "Shoes", new { id = s.ShoeId }, new { @class = "btn bi bi-plus-circle" })*@
+                        <a class="btn btn-info" href="@Url.Action("CeateStock","Shoes")"><i class="bi bi-plus-circle"></i></a>
+                    </div>
+                    <table class="table table-bordered table-dark table-striped">
+                        <thead>
+                            <tr>
+                                <th>Size</th>
+                                <th>Price</th>
+                                <th>Quantity</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var t in s.Stocks)
+                            {
+                                <tr>
+                                    <td>@t.Size</td>
+                                    <td>@t.Price.ToString("0.00")</td>
+                                    <td>@t.Quantity</td>
+                                    <td>
+                                        @*@Html.ActionLink("Edit", "StocKEdit", "Shoes", new { id = t.StockId }, new { @class = "btn btn-info" })*@
+                                        <a class="btn btn-primary btn-sm" href="@Url.Action("StocKEdit","Shoes",new { id = t.StockId })"><i class="bi bi-pencil-square"></i></a>
+
+                                        <button data-pk="@t.StockId" class="btn btn-danger btn-sm dels"><i class="bi bi-trash"></i></button>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div class="d-flex justify-content-end">
+
+    @Html.PagedListPager((IPagedList)Model, pg => Url.Action("ShoeTable", "Shoes", new { pg = pg }), PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new PagedListRenderOptions
+    {
+        UlElementClasses = new string[] { "pagination", "pagination-sm" },
+        LiElementClasses = new string[] { "page-item" },
+        PageClasses = new string[] { "page-link" },
+        DisplayLinkToPreviousPage = PagedListDisplayMode.Always,
+        DisplayLinkToNextPage = PagedListDisplayMode.Always
+    },
+    new AjaxOptions() { HttpMethod = "GET", UpdateTargetId = "table-div", LoadingElementId="spinner" }))
+</div>

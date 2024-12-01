@@ -1,0 +1,304 @@
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Project_Shoe_Stock.dll.config
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Project_Shoe_Stock.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Project_Shoe_Stock.pdb
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\csc.exe
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\csc.exe.config
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\csc.rsp
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\csi.exe
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\csi.exe.config
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\csi.rsp
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\System.Buffers.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\System.Collections.Immutable.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\System.Memory.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\System.Numerics.Vectors.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\System.Reflection.Metadata.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\vbc.exe
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\vbc.exe.config
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\vbc.rsp
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\VBCSCompiler.exe
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\roslyn\VBCSCompiler.exe.config
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\EntityFramework.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\EntityFramework.SqlServer.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Microsoft.Owin.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Microsoft.Owin.Security.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Microsoft.Web.Infrastructure.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Owin.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\System.Web.Helpers.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\System.Web.Mvc.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\System.Web.Razor.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\System.Web.WebPages.Deployment.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\System.Web.WebPages.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\System.Web.WebPages.Razor.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\X.PagedList.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\X.PagedList.Mvc.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\EntityFramework.xml
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\EntityFramework.SqlServer.xml
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Microsoft.Owin.xml
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Microsoft.Owin.Security.xml
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\System.Web.Helpers.xml
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\System.Web.Mvc.xml
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\System.Web.Razor.xml
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\System.Web.WebPages.xml
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\System.Web.WebPages.Deployment.xml
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\bin\System.Web.WebPages.Razor.xml
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.csproj.AssemblyReference.cache
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.Migrations.ContextA.InitialCreate.resources
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.Migrations.ContextB.InitialCreate.resources
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.csproj.GenerateResource.cache
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.csproj.CoreCompileInputs.cache
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.csproj.CopyComplete
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.dll
+E:\Robin\Project_Shoe_Stock\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.pdb
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Project_Shoe_Stock.dll.config
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Project_Shoe_Stock.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Project_Shoe_Stock.pdb
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\csc.exe
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\csc.exe.config
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\csc.rsp
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\csi.exe
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\csi.exe.config
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\csi.rsp
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\System.Buffers.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\System.Collections.Immutable.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\System.Memory.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\System.Numerics.Vectors.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\System.Reflection.Metadata.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\vbc.exe
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\vbc.exe.config
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\vbc.rsp
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\VBCSCompiler.exe
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\roslyn\VBCSCompiler.exe.config
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\EntityFramework.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\EntityFramework.SqlServer.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Microsoft.Owin.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Microsoft.Owin.Security.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Microsoft.Web.Infrastructure.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Owin.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\System.Web.Helpers.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\System.Web.Mvc.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\System.Web.Razor.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\System.Web.WebPages.Deployment.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\System.Web.WebPages.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\System.Web.WebPages.Razor.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\X.PagedList.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\X.PagedList.Mvc.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\EntityFramework.xml
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\EntityFramework.SqlServer.xml
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Microsoft.Owin.xml
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Microsoft.Owin.Security.xml
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\System.Web.Helpers.xml
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\System.Web.Mvc.xml
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\System.Web.Razor.xml
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\System.Web.WebPages.xml
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\System.Web.WebPages.Deployment.xml
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\bin\System.Web.WebPages.Razor.xml
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.csproj.AssemblyReference.cache
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.Migrations.ContextA.InitialCreate.resources
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.Migrations.ContextB.InitialCreate.resources
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.csproj.GenerateResource.cache
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.csproj.CoreCompileInputs.cache
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.csproj.CopyComplete
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.dll
+D:\Project_Shoe_Stock-E\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.pdb
+E:\Project_1279152\Project_Shoe_Stock\bin\Project_Shoe_Stock.dll.config
+E:\Project_1279152\Project_Shoe_Stock\bin\Project_Shoe_Stock.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\Project_Shoe_Stock.pdb
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\csc.exe
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\csc.exe.config
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\csc.rsp
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\csi.exe
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\csi.exe.config
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\csi.rsp
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\System.Buffers.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\System.Collections.Immutable.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\System.Memory.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\System.Numerics.Vectors.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\System.Reflection.Metadata.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\vbc.exe
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\vbc.exe.config
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\vbc.rsp
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\VBCSCompiler.exe
+E:\Project_1279152\Project_Shoe_Stock\bin\roslyn\VBCSCompiler.exe.config
+E:\Project_1279152\Project_Shoe_Stock\bin\EntityFramework.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\EntityFramework.SqlServer.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Owin.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Owin.Security.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Web.Infrastructure.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\Owin.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\System.Web.Helpers.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\System.Web.Mvc.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\System.Web.Razor.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\System.Web.WebPages.Deployment.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\System.Web.WebPages.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\System.Web.WebPages.Razor.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\X.PagedList.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\X.PagedList.Mvc.dll
+E:\Project_1279152\Project_Shoe_Stock\bin\EntityFramework.xml
+E:\Project_1279152\Project_Shoe_Stock\bin\EntityFramework.SqlServer.xml
+E:\Project_1279152\Project_Shoe_Stock\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Project_1279152\Project_Shoe_Stock\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Project_1279152\Project_Shoe_Stock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Owin.xml
+E:\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Owin.Security.xml
+E:\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Project_1279152\Project_Shoe_Stock\bin\System.Web.Helpers.xml
+E:\Project_1279152\Project_Shoe_Stock\bin\System.Web.Mvc.xml
+E:\Project_1279152\Project_Shoe_Stock\bin\System.Web.Razor.xml
+E:\Project_1279152\Project_Shoe_Stock\bin\System.Web.WebPages.xml
+E:\Project_1279152\Project_Shoe_Stock\bin\System.Web.WebPages.Deployment.xml
+E:\Project_1279152\Project_Shoe_Stock\bin\System.Web.WebPages.Razor.xml
+E:\Project_1279152\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.csproj.AssemblyReference.cache
+E:\Project_1279152\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.Migrations.ContextA.InitialCreate.resources
+E:\Project_1279152\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.Migrations.ContextB.InitialCreate.resources
+E:\Project_1279152\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.csproj.GenerateResource.cache
+E:\Project_1279152\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.csproj.CoreCompileInputs.cache
+E:\Project_1279152\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.csproj.CopyComplete
+E:\Project_1279152\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.dll
+E:\Project_1279152\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.pdb
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Project_Shoe_Stock.dll.config
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Project_Shoe_Stock.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Project_Shoe_Stock.pdb
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\csc.exe
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\csc.exe.config
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\csc.rsp
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\csi.exe
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\csi.exe.config
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\csi.rsp
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\System.Buffers.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\System.Collections.Immutable.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\System.Memory.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\System.Numerics.Vectors.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\System.Reflection.Metadata.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\vbc.exe
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\vbc.exe.config
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\vbc.rsp
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\VBCSCompiler.exe
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\roslyn\VBCSCompiler.exe.config
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\EntityFramework.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\EntityFramework.SqlServer.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Owin.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Owin.Security.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Web.Infrastructure.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Owin.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\System.Web.Helpers.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\System.Web.Mvc.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\System.Web.Razor.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\System.Web.WebPages.Deployment.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\System.Web.WebPages.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\System.Web.WebPages.Razor.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\X.PagedList.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\X.PagedList.Mvc.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\EntityFramework.xml
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\EntityFramework.SqlServer.xml
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Owin.xml
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Owin.Security.xml
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\System.Web.Helpers.xml
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\System.Web.Mvc.xml
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\System.Web.Razor.xml
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\System.Web.WebPages.xml
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\System.Web.WebPages.Deployment.xml
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\bin\System.Web.WebPages.Razor.xml
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.csproj.AssemblyReference.cache
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.Migrations.ContextA.InitialCreate.resources
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.Migrations.ContextB.InitialCreate.resources
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.csproj.GenerateResource.cache
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.csproj.CoreCompileInputs.cache
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\obj\Debug\Project_.91A3B9D6.Up2Date
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.dll
+E:\ISDB File\Module 02\SQL\Project_1279152\Project_Shoe_Stock\obj\Debug\Project_Shoe_Stock.pdb

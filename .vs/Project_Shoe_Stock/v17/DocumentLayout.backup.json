@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ISDB File\\Module 02\\SQL\\Project_1279152\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EADE6EE-5401-482C-A17B-974EB46810C8}|Project_Shoe_Stock\\Project_Shoe_Stock.csproj|e:\\isdb file\\module 02\\sql\\project_1279152\\project_shoe_stock\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EADE6EE-5401-482C-A17B-974EB46810C8}|Project_Shoe_Stock\\Project_Shoe_Stock.csproj|solutionrelative:project_shoe_stock\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EADE6EE-5401-482C-A17B-974EB46810C8}|Project_Shoe_Stock\\Project_Shoe_Stock.csproj|e:\\isdb file\\module 02\\sql\\project_1279152\\project_shoe_stock\\views\\brands\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EADE6EE-5401-482C-A17B-974EB46810C8}|Project_Shoe_Stock\\Project_Shoe_Stock.csproj|solutionrelative:project_shoe_stock\\views\\brands\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EADE6EE-5401-482C-A17B-974EB46810C8}|Project_Shoe_Stock\\Project_Shoe_Stock.csproj|e:\\isdb file\\module 02\\sql\\project_1279152\\project_shoe_stock\\views\\brands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EADE6EE-5401-482C-A17B-974EB46810C8}|Project_Shoe_Stock\\Project_Shoe_Stock.csproj|solutionrelative:project_shoe_stock\\views\\brands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EADE6EE-5401-482C-A17B-974EB46810C8}|Project_Shoe_Stock\\Project_Shoe_Stock.csproj|e:\\isdb file\\module 02\\sql\\project_1279152\\project_shoe_stock\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EADE6EE-5401-482C-A17B-974EB46810C8}|Project_Shoe_Stock\\Project_Shoe_Stock.csproj|solutionrelative:project_shoe_stock\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EADE6EE-5401-482C-A17B-974EB46810C8}|Project_Shoe_Stock\\Project_Shoe_Stock.csproj|e:\\isdb file\\module 02\\sql\\project_1279152\\project_shoe_stock\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EADE6EE-5401-482C-A17B-974EB46810C8}|Project_Shoe_Stock\\Project_Shoe_Stock.csproj|solutionrelative:project_shoe_stock\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EADE6EE-5401-482C-A17B-974EB46810C8}|Project_Shoe_Stock\\Project_Shoe_Stock.csproj|e:\\isdb file\\module 02\\sql\\project_1279152\\project_shoe_stock\\views\\groupings\\groupingbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7EADE6EE-5401-482C-A17B-974EB46810C8}|Project_Shoe_Stock\\Project_Shoe_Stock.csproj|solutionrelative:project_shoe_stock\\views\\groupings\\groupingbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EADE6EE-5401-482C-A17B-974EB46810C8}|Project_Shoe_Stock\\Project_Shoe_Stock.csproj|E:\\ISDB File\\Module 02\\SQL\\Project_1279152\\project_shoe_stock\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EADE6EE-5401-482C-A17B-974EB46810C8}|Project_Shoe_Stock\\Project_Shoe_Stock.csproj|solutionrelative:project_shoe_stock\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\ISDB File\\Module 02\\SQL\\Project_1279152\\Project_Shoe_Stock\\Views\\Brands\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Project_Shoe_Stock\\Views\\Brands\\Edit.cshtml",
+              "ToolTip": "E:\\ISDB File\\Module 02\\SQL\\Project_1279152\\Project_Shoe_Stock\\Views\\Brands\\Edit.cshtml",
+              "RelativeToolTip": "Project_Shoe_Stock\\Views\\Brands\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T18:04:27.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\ISDB File\\Module 02\\SQL\\Project_1279152\\Project_Shoe_Stock\\Views\\Brands\\Create.cshtml",
+              "RelativeDocumentMoniker": "Project_Shoe_Stock\\Views\\Brands\\Create.cshtml",
+              "ToolTip": "E:\\ISDB File\\Module 02\\SQL\\Project_1279152\\Project_Shoe_Stock\\Views\\Brands\\Create.cshtml",
+              "RelativeToolTip": "Project_Shoe_Stock\\Views\\Brands\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T18:03:46.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ISDB File\\Module 02\\SQL\\Project_1279152\\Project_Shoe_Stock\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Project_Shoe_Stock\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ISDB File\\Module 02\\SQL\\Project_1279152\\Project_Shoe_Stock\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Project_Shoe_Stock\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T18:02:02.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ISDB File\\Module 02\\SQL\\Project_1279152\\Project_Shoe_Stock\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Project_Shoe_Stock\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\ISDB File\\Module 02\\SQL\\Project_1279152\\Project_Shoe_Stock\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Project_Shoe_Stock\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T18:00:41.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\ISDB File\\Module 02\\SQL\\Project_1279152\\Project_Shoe_Stock\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Project_Shoe_Stock\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\ISDB File\\Module 02\\SQL\\Project_1279152\\Project_Shoe_Stock\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Project_Shoe_Stock\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T18:00:36.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GroupingByName.cshtml",
+              "DocumentMoniker": "E:\\ISDB File\\Module 02\\SQL\\Project_1279152\\Project_Shoe_Stock\\Views\\Groupings\\GroupingByName.cshtml",
+              "RelativeDocumentMoniker": "Project_Shoe_Stock\\Views\\Groupings\\GroupingByName.cshtml",
+              "ToolTip": "E:\\ISDB File\\Module 02\\SQL\\Project_1279152\\Project_Shoe_Stock\\Views\\Groupings\\GroupingByName.cshtml",
+              "RelativeToolTip": "Project_Shoe_Stock\\Views\\Groupings\\GroupingByName.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-30T17:57:02.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\ISDB File\\Module 02\\SQL\\Project_1279152\\Project_Shoe_Stock\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Project_Shoe_Stock\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\ISDB File\\Module 02\\SQL\\Project_1279152\\Project_Shoe_Stock\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Project_Shoe_Stock\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:57:03.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

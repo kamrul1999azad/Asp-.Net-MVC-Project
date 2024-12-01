@@ -1,0 +1,49 @@
+﻿@model IEnumerable<Project_Shoe_Stock.Models.ShoeModel>
+@using X.PagedList
+@using X.PagedList.Mvc
+@using X.PagedList.Mvc.Common
+
+<div >
+    <h2 class="text-center text-decoration-underline text-danger">List of Shoe's Models</h2>
+</div>
+<div class="d-flex justify-content-end">
+    <a  class="btn btn-info" href="@Url.Action("Create","ShoeModels")"><i class="bi bi-plus-circle"></i></a>
+    @*@Html.ActionLink("Create", "Create", "ShoeModels", new { }, new { @class = "btn btn-primary  bi bi-plus-circle" })*@
+</div>
+<div class="d-flex justify-content-sm-center">
+    <div class="col-5">
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Model name</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var m in Model)
+                {
+                    <tr>
+                        <td>@m.ModelName</td>
+                        <td>
+                            <a class="btn btn-info" href="@Url.Action("Edit","ShoeModels",new { id = m.ShoeModelId })"><i class="bi bi-pencil-square"></i></a>
+                            @*@Html.ActionLink("Edit", "Edit", "ShoeModels", new { id = m.ShoeModelId }, new { @class = "btn btn-primary btn-sm bi bi-pencil-square" })*@
+                            <button data-pk="@m.ShoeModelId" class="btn btn-danger del bi bi-trash"></button>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+<div class="d-flex justify-content-end">
+
+    @Html.PagedListPager((IPagedList)Model, pg => Url.Action("ModelsTable", "ShoeModels", new { pg = pg }), PagedListRenderOptions.EnableUnobtrusiveAjaxReplacing(new PagedListRenderOptions
+    {
+        UlElementClasses = new string[] { "pagination", "pagination-sm" },
+        LiElementClasses = new string[] { "page-item" },
+        PageClasses = new string[] { "page-link" },
+        DisplayLinkToPreviousPage = PagedListDisplayMode.Always,
+        DisplayLinkToNextPage = PagedListDisplayMode.Always
+    },
+    new AjaxOptions() { HttpMethod = "GET", UpdateTargetId = "placeholder" }))
+</div>

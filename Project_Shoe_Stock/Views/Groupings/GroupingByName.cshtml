@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Project_Shoe_Stock.ViewModels.GroupData>
+@{
+    ViewBag.Title = "GroupingByName";
+}
+
+<h2>Grouping By Name</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Key</th>
+            <th>Data</th>
+        </tr>
+
+    </thead>
+    <tbody>
+        @foreach (var x in Model)
+        {
+            <tr>
+                <td>
+                    @x.Key
+                </td>
+                <td>
+                    <table class="table">
+                        <thead>
+                            <tr>
+                                <th>Size</th>
+                                <th>Price</th>
+                                <th>Quantity</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var s in x.Data)
+                            {
+                                <tr>
+                                    <td>@s.Size</td>
+                                    <td>@s.Price</td>
+                                    <td>@s.Quantity</td>
+                                </tr>
+                            }
+                            <tr>
+                                <td colspan="2" class="text-end">Total</td>
+                                <td>@(Model.Sum(x=> x.Data.Sum(y=> y.Quantity)))</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+</table>
+

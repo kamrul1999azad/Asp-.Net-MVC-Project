@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.bundle.js"></script>
+    <style>
+        body {
+            padding-top: 70px;
+        }
+
+        .main {
+            min-height: calc(100vh - 110px);
+        }
+    </style>
+    @RenderSection("styles", false)
+</head>
+<body>
+
+
+    <navbar class="navbar bg-light  navbar-expand-md fixed-top shadow-sm px-2">
+        <div class="container-fluid">
+            <span class="navbar-brand">Azad Shoes</span>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nv" aria-controls="nv" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse" id="nv">
+                <ul class="navbar-nav">
+                    <li class="nav-item ">
+                        @*<a class="nav-link active" aria-current="page" href="#">Home</a>*@
+                        @Html.ActionLink("Home", "Index", "Home", new { }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Brands", "Index", "Brands", new { }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Models", "Index", "ShoeModels", new { }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Shoes", "Index", "Shoes", new { }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Aggreates", "Index", "Aggreates", new { }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Grouping By shoe", "GroupingByName", "Groupings", new { }, new { @class = "nav-link" })
+                    </li>
+                    <li class="nav-item">
+                        @Html.ActionLink("Grouping By size", "GroupingBySize", "Groupings", new { }, new { @class = "nav-link" })
+                    </li>
+                </ul>
+                <ul class="navbar-nav ms-auto">
+
+                    @if (Request.IsAuthenticated)
+                    {
+                        <li class="nav-item">
+                            @Html.ActionLink("Logout", "Logout", "Account", new { }, new { @class = "nav-link" })
+                        </li>
+                    }
+                    else
+                    {
+                        <li class="nav-item">
+                            @Html.ActionLink("Register", "Register", "Account", new { }, new { @class = "nav-link" })
+                        </li>
+                        <li class="nav-item">
+                            @Html.ActionLink("Login", "Login", "Account", new { }, new { @class = "nav-link" })
+                        </li>
+                    }
+                </ul>
+            </div>
+
+        </div>
+    </navbar>
+    <main class="container-fluid main">
+        @RenderBody()
+    </main>
+    <footer class="container-fluid">
+        &copy; @DateTime.Today.Year
+    </footer>
+    @RenderSection("scripts", false)
+</body>
+</html>
